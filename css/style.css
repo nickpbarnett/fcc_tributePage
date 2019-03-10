@@ -1,0 +1,9 @@
+body{
+	margin:25px;
+}
+
+#info{
+	max-width:90%;
+	margin:20px auto;
+	text-align: left;
+}
